@@ -5,3 +5,5 @@ Technologies used:
 - Streamlit to create an end to end application
 - Assembly AI's API to transcribe doctor-patient conversation
 - Google's Gemini Pro model to generate SOAP Notes and Prescription
+
+Check Out the App here: https://mediconnect.streamlit.app/
